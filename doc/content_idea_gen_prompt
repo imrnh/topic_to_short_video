@@ -1,0 +1,23 @@
+Suggest me 10 short video (min length: 50 sec, max length: 2.5min) idea about nutrition.
+I need something that can be researched by AI models. Like something plain and simple.
+
+For example, "Sugar vs. Artificial Sweeteners: Which is Healthier?" 
+
+
+In this case, i can look up contents in google scholar, pass them to AI model and will get an answer.
+
+Suggest me 10 ideas like that. + 10 keyword for each item to look up in google scholar.
+
+
+I need the following format for the content:
+
+<VideoIdea>
+	  <Title>Sugar vs. Artificial Sweeteners: Which is Healthier?</Title>
+	  <Keywords> 
+	      Aritifical Sweetners,
+	      Harmful effect of Artifical Sweetners,
+	      Why sugar is bad?,
+	 </Keyword>
+</VideoIdea>
+
+here, make sure to keep each keyword item comma seperated.
